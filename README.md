@@ -1,5 +1,7 @@
 # React: Making Impossible Views Impossible
 
+[![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+
 An opinionated approach on how to make impossible views impossible with React's local state. It follows the central idea that `(State) => View`. Thank you [A. Sharif](https://twitter.com/sharifsbeat) for the inspiration.
 
 ## Related Material for Inspiration
