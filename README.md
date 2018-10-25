@@ -1,6 +1,6 @@
 # React: Making Impossible Views Impossible
 
-[![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+[![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/react-making-impossible-views-impossible.svg)](https://greenkeeper.io/)
 
 An opinionated approach on how to make impossible views impossible with React's local state. It follows the central idea that `(State) => View`. Thank you [A. Sharif](https://twitter.com/sharifsbeat) for the inspiration.
 
